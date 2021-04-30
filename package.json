@@ -1,0 +1,32 @@
+{
+  "name": "twitch-id-obtainer",
+  "version": "1.0.0",
+  "description": "A script to get your twitch ID (Requiring that you have the access token scope user:read:email",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingOKarma/Twitch-ID-Obtainer.git"
+  },
+  "author": "KingOKarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingOKarma/Twitch-ID-Obtainer/issues"
+  },
+  "homepage": "https://github.com/KingOKarma/Twitch-ID-Obtainer#readme",
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.1",
+    "@types/node": "^15.0.1",
+    "@types/node-fetch": "^2.5.10",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.25.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "node-fetch": "^2.6.1",
+    "typescript": "^4.2.4"
+  }
+}

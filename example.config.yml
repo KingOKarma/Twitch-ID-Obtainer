@@ -1,0 +1,6 @@
+accessToken: Your access Token with user:read:email scopes
+
+clientID: Your Client ID
+# These ^^ ^^ can be obtained from https://twitchtokengenerator.com/
+
+twitchUsernameLowercase: Your Username (no caps as it works as link)
